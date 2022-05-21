@@ -2,6 +2,7 @@ body {
   background: #040404;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   width: 100%;
+  color: whitesmoke;
 }
 header {
   display: grid;
